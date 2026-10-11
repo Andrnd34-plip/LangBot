@@ -179,7 +179,7 @@ LangBot is **agent-friendly by design** — your coding agents (Claude Code, Cod
 
 - [Discord Community](https://discord.gg/wdNEHETs87)
 
----
+---key 
 
 ## Contributors
 
