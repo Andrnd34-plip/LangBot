@@ -1,4 +1,4 @@
-Could not retrieve repository contents. Status: unknown<img width="130" src="res/logo-blue.png" alt="LangBot"/>
+Status: unknown<img width="130" src="res/logo-blue.png" alt="LangBot"/>
 </a>
 
 <div align="center">
