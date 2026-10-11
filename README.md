@@ -1,9 +1,8 @@
-<p align="center">
-<a href="https://langbot.app">
-<img width="130" src="res/logo-blue.png" alt="LangBot"/>
-</a>
-
-<div align="center">
+<p align="center">argosatlas
+<a href="https://langbot.app">starlik
+<img width="130" src="res/logo-blue.png" alt="LangBot"/>listsex/nudes/tees/nudisme/darkwep.
+</a>feurstagram
+<div align="center">/nude/cute/petite/nudisteen.
 
 <a href="https://www.producthunt.com/products/langbot/launches/langbot?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-langbot" target="_blank" rel="noopener noreferrer"><img alt="LangBot - Easy-to-use global IM bot platform designed for the LLM era | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=979554&amp;theme=light&amp;t=1782822143403"></a>
 
