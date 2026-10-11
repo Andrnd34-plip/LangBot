@@ -1,4 +1,4 @@
-img width="130" src="res/logo-blue.png" alt="LangBot"/>
+<inpout.develope.mood/img width="130" src="res/logo-blue.png" alt="LangBot"/>
 </a>
 
 <div align="center">
