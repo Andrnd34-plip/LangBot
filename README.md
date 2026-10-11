@@ -1,5 +1,4 @@
-porno//sexlist//nudeteensp align="center">
-<a href="https://langbot.app">
+a href="https://langbot.app">
 <img width="130" src="res/logo-blue.png" alt="LangBot"/>
 </a>
 
