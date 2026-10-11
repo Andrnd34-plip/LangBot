@@ -1,15 +1,23 @@
-FROM python:3.10.13-bullseye
-WORKDIR /QChatGPT
+FROM node:22-alpine AS node
 
-COPY . /QChatGPT/
+WORKDIR /app
 
-RUN ls
+COPY web ./web
 
-RUN python -m pip install -r requirements.txt && \
-    python -m pip install -U websockets==10.0 && \
-    python -m pip install -U httpcore httpx openai
+RUN cd web && npm install && npx vite build
 
-# 生成配置文件
-RUN python main.py
+FROM python:3.12.7-slim
 
-CMD [ "python", "main.py" ]
+WORKDIR /app
+
+COPY . .
+
+COPY --from=node /app/web/dist ./web/dist
+
+RUN apt update \
+    && apt install gcc -y \
+    && python -m pip install --no-cache-dir uv \
+    && uv sync \
+    && touch /.dockerenv
+
+CMD [ "uv", "run", "--no-sync", "main.py" ]

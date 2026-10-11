@@ -1,25 +1,32 @@
-## 概述
+## 概述 / Overview
 
-实现/解决/优化的内容: 
+> 请在此部分填写你实现/解决/优化的内容:  
+> Summary of what you implemented/solved/optimized:
+> 
 
-### 事务
+### 更改前后对比截图 / Screenshots
 
-- [ ] 已阅读仓库[贡献指引](https://github.com/RockChinQ/QChatGPT/blob/master/CONTRIBUTING.md)
-- [ ] 已与维护者在issues或其他平台沟通此PR大致内容
+> 请在此部分粘贴更改前后对比截图（可以是界面截图、控制台输出、对话截图等）:  
+> Please paste the screenshots of changes before and after here (can be interface screenshots, console output, conversation screenshots, etc.):
+> 
+> 修改前 / Before:
+> 
+> 修改后 / After:
+> 
 
-## 以下内容可在起草PR后、合并PR前逐步完成
+## 检查清单 / Checklist
 
-### 功能
+### PR 作者完成 / For PR author
 
-- [ ] 已编写完善的配置文件字段说明（若有新增）
-- [ ] 已编写面向用户的新功能说明（若有必要）
-- [ ] 已测试新功能或更改
+*请在方括号间写`x`以打勾 / Please tick the box with `x`*
 
-### 兼容性
+- [ ] 阅读仓库[贡献指引](https://github.com/langbot-app/LangBot/blob/master/CONTRIBUTING.md)了吗？ / Have you read the [contribution guide](https://github.com/langbot-app/LangBot/blob/master/CONTRIBUTING.md)?
+- [ ] 与项目所有者沟通过了吗？ / Have you communicated with the project maintainer?
+- [ ] 我确定已自行测试所作的更改，确保功能符合预期。 / I have tested the changes and ensured they work as expected.
 
-- [ ] 已处理版本兼容性
-- [ ] 已处理插件兼容问题
+### 项目维护者完成 / For project maintainer
 
-### 风险
-
-可能导致或已知的问题: 
+- [ ] 相关 issues 链接了吗？ / Have you linked the related issues?
+- [ ] 配置项写好了吗？迁移写好了吗？生效了吗？ / Have you written the configuration items? Have you written the migration? Has it taken effect?
+- [ ] 依赖加到 pyproject.toml 和 core/bootutils/deps.py 了吗 / Have you added the dependencies to pyproject.toml and core/bootutils/deps.py?
+- [ ] 文档编写了吗？ / Have you written the documentation?
