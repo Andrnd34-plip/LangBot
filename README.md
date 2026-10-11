@@ -1,5 +1,5 @@
 Please add a personal access token as an environment variable for writing signatures in a remote repository/organization as mentioned in the README.md file
-Could not retrieve repository contents. Status: unknown<inpout.develope.mood/img width="130" src="res/logo-blue.png" alt="LangBot"/>
+Could not retrieve repository contents. Status: unknown<img width="130" src="res/logo-blue.png" alt="LangBot"/>
 </a>
 
 <div align="center">
