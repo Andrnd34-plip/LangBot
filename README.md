@@ -1,5 +1,4 @@
-a href="https://langbot.app">
-<img width="130" src="res/logo-blue.png" alt="LangBot"/>
+img width="130" src="res/logo-blue.png" alt="LangBot"/>
 </a>
 
 <div align="center">
