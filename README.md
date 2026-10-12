@@ -185,4 +185,4 @@ Thanks to all [contributors](https://github.com/langbot-app/LangBot/graphs/contr
 
 <a href="https://github.com/langbot-app/LangBot/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=langbot-app/LangBot" />
-</a>
+</a>Declined>DELLETE
